@@ -6,4 +6,7 @@ doc/app
 db/*.sqlite3
 *.swp
 *~
+nbproject/*
+nbproject/*/*
+nbproject/**/*
 .DS_Store
