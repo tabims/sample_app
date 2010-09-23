@@ -1,0 +1,7 @@
+rails --version 2.3.9
+activesupport --version 2.3.9
+activerecord --version 2.3.9
+rack --version 1.1.0
+actionpack --version 2.3.9
+actionmailer --version 2.3.9
+activeresource --version 2.3.9
