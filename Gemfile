@@ -4,6 +4,7 @@ gem "sqlite3-ruby", :require => "sqlite3"
 
 # bundler requires these gems in all environments
  gem "nokogiri", "~> 1.4.3.1"
+ gem "sqlite3-ruby"
 # gem "geokit"
 
 group :development do
