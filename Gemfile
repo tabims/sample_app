@@ -5,6 +5,7 @@ gem "sqlite3-ruby"
 # bundler requires these gems in all environments
  gem "nokogiri", "~> 1.4.3.1"
  gem "sqlite3-ruby"
+ gem "factory_girl"
 # gem "geokit"
 
 group :development do
