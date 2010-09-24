@@ -1,6 +1,6 @@
 source :gemcutter
 gem "rails", "~> 2.3.9"
-gem "sqlite3-ruby", :require => "sqlite3"
+gem "sqlite3-ruby"
 
 # bundler requires these gems in all environments
  gem "nokogiri", "~> 1.4.3.1"
@@ -19,5 +19,6 @@ group :test do
   gem "cucumber"
   gem "factory_girl"
   gem "webrat"
+  gem "sqlite3-ruby"
   # gem "faker"
 end
